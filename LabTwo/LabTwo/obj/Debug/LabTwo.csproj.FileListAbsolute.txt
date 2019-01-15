@@ -1,0 +1,14 @@
+C:\Users\john\source\repos\LabTwo\LabTwo\bin\Debug\LabTwo.exe.config
+C:\Users\john\source\repos\LabTwo\LabTwo\bin\Debug\LabTwo.exe
+C:\Users\john\source\repos\LabTwo\LabTwo\bin\Debug\LabTwo.pdb
+C:\Users\john\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.csprojAssemblyReference.cache
+C:\Users\john\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.exe
+C:\Users\john\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.pdb
+E:\GrandCircusVS\Lab 2\LabTwo\LabTwo\bin\Debug\LabTwo.exe.config
+E:\GrandCircusVS\Lab 2\LabTwo\LabTwo\bin\Debug\LabTwo.exe
+E:\GrandCircusVS\Lab 2\LabTwo\LabTwo\bin\Debug\LabTwo.pdb
+E:\GrandCircusVS\Lab 2\LabTwo\LabTwo\obj\Debug\LabTwo.csprojAssemblyReference.cache
+E:\GrandCircusVS\Lab 2\LabTwo\LabTwo\obj\Debug\LabTwo.csproj.CoreCompileInputs.cache
+E:\GrandCircusVS\Lab 2\LabTwo\LabTwo\obj\Debug\LabTwo.exe
+E:\GrandCircusVS\Lab 2\LabTwo\LabTwo\obj\Debug\LabTwo.pdb

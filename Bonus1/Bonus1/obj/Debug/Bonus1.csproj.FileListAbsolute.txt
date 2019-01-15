@@ -1,0 +1,7 @@
+E:\GrandCircusVS\Lab 2\Bonus1\Bonus1\bin\Debug\Bonus1.exe.config
+E:\GrandCircusVS\Lab 2\Bonus1\Bonus1\bin\Debug\Bonus1.exe
+E:\GrandCircusVS\Lab 2\Bonus1\Bonus1\bin\Debug\Bonus1.pdb
+E:\GrandCircusVS\Lab 2\Bonus1\Bonus1\obj\Debug\Bonus1.csprojAssemblyReference.cache
+E:\GrandCircusVS\Lab 2\Bonus1\Bonus1\obj\Debug\Bonus1.csproj.CoreCompileInputs.cache
+E:\GrandCircusVS\Lab 2\Bonus1\Bonus1\obj\Debug\Bonus1.exe
+E:\GrandCircusVS\Lab 2\Bonus1\Bonus1\obj\Debug\Bonus1.pdb
